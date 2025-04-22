@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "tabnine.tabnine-vscode",
+        "codeium.codeium",
+        "vscjava.vscode-java-pack",
+        "pivotal.vscode-spring-boot",
+        "pact-jvm"
+    ]
+}
